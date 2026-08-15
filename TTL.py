@@ -7,7 +7,6 @@ import os
 ## nice to haves
 import matplotlib.pyplot as plt
 import numba as nb
-from Live_Wire.LWL import *
 
 ## sometimes used and didnt want to copy everywhere
 import sympy
